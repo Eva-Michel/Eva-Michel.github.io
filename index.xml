@@ -11,7 +11,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My project</title>
+      <title>Mes projets</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
@@ -38,11 +38,21 @@
       <guid>/post/getting-started/</guid>
       <description>
 
-&lt;p&gt;Le contenu ici&lt;/p&gt;
-
 &lt;h2 id=&#34;jeune-étudiante-en-apprentissage&#34;&gt;Jeune étudiante en apprentissage&lt;/h2&gt;
 
-&lt;p&gt;Du texte &lt;strong&gt;avec une partie en gras&lt;/strong&gt;...&lt;/p&gt;
+&lt;p&gt;Bonjour, mon nom est &lt;strong&gt;Eva Michel&lt;/strong&gt; et je suis actuellement étudiante à l&#39;&lt;strong&gt;Umons&lt;/strong&gt;. Je réalise mon premier blog dans le cadre de mon cours de &lt;strong&gt;sciences des données&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Comme je l&#39;ai cité précédemment j&#39;ai des passions trés hétéroclite.&lt;/p&gt;
+
+&lt;p&gt;Dans un premier temps, elles passent principalement par l&#39;apprentissage de l&#39;&lt;strong&gt;Art&lt;/strong&gt; (avec un grand A). Depuis toute petite, j&#39;ai appris à danser, chanter, jouer d&#39;un instrument de musique, dessiner, peintre,...et même de pratiquer des arts martiaux. Cette curiosité et cette ouverture d&#39;esprit est selon moi essentielle en science.&lt;/p&gt;
+
+&lt;p&gt;Dans un second temps, mon caractère aimable et digne de confiance m&#39;ont permis de rencontrer des personnes venant d&#39;autres horizons. Avec celles-ci j&#39;ai pu échangé des opinions et idées sur de nombreux sujets, ce qui n&#39;a fait qu&#39;acroître mon envie de savoir.&lt;/p&gt;
+
+&lt;p&gt;Un bon scientifique se doit de connaitre différent mode de pensé, de travail, ... afin d&#39;arriver à ces fins. L&#39;éducation que j&#39;ai reçue de mes parents, a fait de moi une personne déterminée, cultivée et attentionné envers toutes les choses qui m&#39;entourent. D&#39;ailleurs, je les en remercie fortement.&lt;/p&gt;
+
+&lt;p&gt;Certe, il peut m&#39;arrivée, comme tout un chacun, de perdre confiance et courage. Néanmoins, mon esprit combatif me pousse à comprendre mes faiblesses et torts afin de m&#39;améliorée. Quand bien même le besoin d&#39;aide extérieur se ressentirais, je n&#39;aurais aucune réticence à la demander. Tout comme je n&#39;aurais aucun problème à prodigué des conseils ou éclaircissements sur des parties moins bien assimilée. L&#39;interaction sociale m&#39;est personnellement crucial. Elle me permet d&#39;avancer plus facilement que seul. Ce pendant, j&#39;aime travaillé sur des travaux individuels car cela me permet de pouvoir moduler celui-ci comme je l&#39;entends.&lt;/p&gt;
+
+&lt;p&gt;J&#39;espère que ce blog vous a plu et qu&#39;il vous a permit de mieux me connaitre.&lt;/p&gt;
 </description>
     </item>
     
